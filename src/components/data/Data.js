@@ -20,6 +20,10 @@ export const nav = [
     path: "/pricing",
   },
   {
+    text: "forms",
+    path: "/forms",
+  },
+  {
     text: "contact",
     path: "/contact",
   },
